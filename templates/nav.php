@@ -3,10 +3,10 @@
                 <!--- Temporary logo -->
                 <a href="home.php"><img src="assets/atoms-logo-brand-color@2x.webp" alt="home"></a>
                 <ul>
-                    <li><a href="">HOME</a></li>
-                    <li><a href="">HOW IT WORKS</a></li>
-                    <li><a href="">SHOP</a></li>
-                    <li><a href="">PRICING</a></li>
+                    <li><a href="home.php">HOME</a></li>
+                    <li><a href="how-it-works.php">HOW IT WORKS</a></li>
+                    <li><a href="shop.php">SHOP</a></li>
+                    <li><a href="pricing.php">PRICING</a></li>
                 </ul>
             </div>
 
