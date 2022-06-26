@@ -523,6 +523,26 @@ nav{
     height: 703px;
     background-color: #f2f5f7;
 }
+
+.hiw-intro-content h1{
+    width: 750px;
+    height: 74px;
+    font-family: Ubuntu;
+    font-size: 66px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #505d68;
+}
+
+.hiw-intro-content img{
+    width: 924px;
+    height: 523px;
+}
+
 /*hiw-footer section*/
 .hiw-footer{
     width: 100%;
