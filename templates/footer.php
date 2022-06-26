@@ -10,4 +10,4 @@
     <a href="">ABOUT</a>
 </div>
 
-<p>©2018 - Form  |   All right reserved</p>
+<p class="copyright">©2018 - Form  |   All right reserved</p>

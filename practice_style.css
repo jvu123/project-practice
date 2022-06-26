@@ -4,13 +4,11 @@
 }
 
 body{
+    /*hides the horizontal scrollbar and content*/
     overflow-x: hidden;
+    /*allows the vertical scrollbar to show while keeping track transparent*/
     overflow-y: overlay;
     font-family: 'Ubuntu', sans-serif;
-
-    /* Hide scrollbar for IE, Edge and Firefox */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
 }
 
 /* width */
@@ -505,7 +503,7 @@ nav{
     padding-right: 59px;
 }
 
-.footer p{
+.copyright{
     padding-top: 65px;
     font-size: 14px;
     font-weight: normal;
@@ -519,5 +517,17 @@ nav{
 /*@home page end*/
 
 /*@how-it-works page*/
-
+/*hiw-intro section*/
+.hiw-intro{
+    width: 100%;
+    height: 703px;
+    background-color: #f2f5f7;
+}
+/*hiw-footer section*/
+.hiw-footer{
+    width: 100%;
+    height: 175px;
+    background-color: white;
+    display: flex;
+}
 /*@how-it-works page end*/
