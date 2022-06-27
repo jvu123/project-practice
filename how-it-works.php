@@ -18,57 +18,69 @@
         <div class="hiw-intro-content">
             <h1>How it works</h1>
 
-            <img src="assets/molecules-media-video-1-copy@3x.webp" alt="video-thumbnail">
+            <img src="home-assets/molecules-media-video-1-copy@3x.webp" alt="video-thumbnail">
 
         </div>
 
     </section>
 
     <section class="speed">
-        <img src="assets/ipad@3x.webp" alt="ipad">
+        <img src="hiw-assets/atoms-devices-i-pad-2@3x.webp" alt="ipad">
 
         <div class="speed-content">
             <h2>Speed up your design process</h2>
 
             <div class="speed-row">
                 <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>Ui kit</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
                 </div>
 
                 <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
-                </div>
-            </div>
-
-            <div class="speed-row">
-                <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
-                </div>
-
-                <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>100+ layouts</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
                 </div>
             </div>
 
             <div class="speed-row">
                 <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>Components</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
                 </div>
 
                 <div class="speed-col">
-                    <img src="" alt="">
-                    <h3></h3>
-                    <p></p>
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>Font system</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
+                </div>
+            </div>
+
+            <div class="speed-row">
+                <div class="speed-col">
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>Organized</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
+                </div>
+
+                <div class="speed-col">
+                    <div class="speed-group">
+                        <img src="hiw-assets/atoms-media-image-thumbnail@3x.webp" alt="img thumbnail">
+                        <h3>Bootstrap grid</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididuntut lab.</p>
                 </div>
             </div>
         </div>

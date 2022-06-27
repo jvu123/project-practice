@@ -1,6 +1,6 @@
-<img src="assets/atoms-logo-brand-sign@3x.webp" alt="logo" class="footer-logo">
+<img src="home-assets/atoms-logo-brand-sign@3x.webp" alt="logo" class="footer-logo">
 
-<img src="assets/atoms-logo-brand-color@3x.webp" alt="form" class="footer-form">
+<img src="home-assets/atoms-logo-brand-color@3x.webp" alt="form" class="footer-form">
 
 <div class="footer-row">
     <a href="">HOME</a>

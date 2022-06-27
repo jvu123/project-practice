@@ -19,9 +19,9 @@
         <div class="intro-content">
             <div class="intro-img">
                 <!--- two images on the left side of intro-->
-                <img src="assets/ipad@3x.webp" alt="ipad" class="ipad">
+                <img src="home-assets/ipad@3x.webp" alt="ipad" class="ipad">
 
-                <img src="assets/atoms-devices-apple-watch@3x.webp" alt="watch" class="watch">
+                <img src="home-assets/atoms-devices-apple-watch@3x.webp" alt="watch" class="watch">
             </div>
 
             <div class="intro-butn">
@@ -29,7 +29,7 @@
 
                 <div class="butn">
                     <a href="" class="shop">SHOP NOW!</a>
-                    <a href=""><img src="assets/atoms-link-icon-right.webp" alt="DEMO" class="demo"></a>
+                    <a href=""><img src="home-assets/atoms-link-icon-right.webp" alt="DEMO" class="demo"></a>
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@
     </section>
 
     <section class="about">
-        <img src="assets/atoms-logo-brand-sign.webp" alt="logo">
+        <img src="home-assets/atoms-logo-brand-sign.webp" alt="logo">
 
         <h2>This is our business</h2>
 
@@ -48,7 +48,7 @@
     </section>
 
     <section class="news-1">
-        <img src="assets/atoms-media-image-2@3x.webp" alt="img">
+        <img src="home-assets/atoms-media-image-2@3x.webp" alt="img">
 
         <div class="news-1-content">
             <h3>This wireframe UI Kit is really great!</h3>
@@ -70,7 +70,7 @@
                 <a href="">DOWNLOAD NOW!</a>
         </div>
 
-        <img src="assets/atoms-media-image-2@3x.webp" alt="img">
+        <img src="home-assets/atoms-media-image-2@3x.webp" alt="img">
 
     </section>
 
@@ -81,25 +81,25 @@
 
         <div class="feat-row">
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Ui kit</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>100+ layouts</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Lots of components</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Font system</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
@@ -108,25 +108,25 @@
 
         <div class="feat-row">
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Organized</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Bootstrap grid</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Responsive</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Vectorize devices</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
@@ -135,25 +135,25 @@
 
         <div class="feat-row">
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>19 categories</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Symbols</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Atomic design</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
 
             <div class="feat-col">
-                <img src="assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
+                <img src="home-assets/atoms-media-image-thumbnail@3x.webp" alt="thumbnail">
                 <h3>Useful layouts</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae placeat eligendi tenetur soluta!</p>
             </div>
@@ -165,22 +165,22 @@
     <section class="video">
         <h2>See it in action</h2>
 
-        <img src="assets/molecules-media-video-1-copy@3x.webp" alt="video" class="video-thumbnail">
+        <img src="home-assets/molecules-media-video-1-copy@3x.webp" alt="video" class="video-thumbnail">
 
         <div class="vid-row">
-            <img src="assets/group@3x.webp" alt="img">
+            <img src="home-assets/group@3x.webp" alt="img">
             <div class="vid-col">
                 <h4>Download</h4>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
 
-            <img src="assets/group@3x.webp" alt="img">
+            <img src="home-assets/group@3x.webp" alt="img">
             <div class="vid-col">
                 <h4>Setup</h4>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
 
-            <img src="assets/group@3x.webp" alt="img">
+            <img src="home-assets/group@3x.webp" alt="img">
             <div class="vid-col">
                 <h4>Design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
@@ -193,13 +193,13 @@
         <h3>Our clients</h3>
 
         <div class="client-row">
-            <img src="assets/atoms-logo-press-card_4@3x.webp" alt="labore">
+            <img src="home-assets/atoms-logo-press-card_4@3x.webp" alt="labore">
 
-            <img src="assets/atoms-logo-press-card_3@3x.webp" alt="aliqua">
+            <img src="home-assets/atoms-logo-press-card_3@3x.webp" alt="aliqua">
 
-            <img src="assets/atoms-logo-press-card_2@3x.webp" alt="dynamic">
+            <img src="home-assets/atoms-logo-press-card_2@3x.webp" alt="dynamic">
 
-            <img src="assets/atoms-logo-press-card@3x.webp" alt="fugiat">
+            <img src="home-assets/atoms-logo-press-card@3x.webp" alt="fugiat">
         </div>
 
     </section>
@@ -212,16 +212,16 @@
                 sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim.</p>
 
             <div class="app-btn">
-                <a href="" class="apple"><img src="assets/molecules-buttons-app-store@3x.webp" alt="Download on the App Store"></a>
+                <a href="" class="apple"><img src="home-assets/molecules-buttons-app-store@3x.webp" alt="Download on the App Store"></a>
 
-                <a href="" class="google"><img src="assets/molecules-buttons-play-store@3x.webp" alt="Get it on Google Play"></a>
+                <a href="" class="google"><img src="home-assets/molecules-buttons-play-store@3x.webp" alt="Get it on Google Play"></a>
             </div>
         </div>
 
         <div class="app-img">
-            <img src="assets/smartphone@3x.webp" alt="phone" class="app-phone">
+            <img src="home-assets/smartphone@3x.webp" alt="phone" class="app-phone">
 
-            <img src="assets/atoms-devices-apple-watch@3x.webp" alt="apple-watch" class="app-watch">
+            <img src="home-assets/atoms-devices-apple-watch@3x.webp" alt="apple-watch" class="app-watch">
         </div>
 
     </section>
