@@ -25,7 +25,7 @@
     </section>
 
     <section class="speed">
-        <img src="hiw-assets/atoms-devices-i-pad-2@3x.webp" alt="ipad">
+        <img src="home-assets/ipad@3x.webp" alt="ipad" class="speed-ipad"> <!-- needs different img -->
 
         <div class="speed-content">
             <h2>Speed up your design process</h2>
@@ -87,6 +87,7 @@
 
     </section>
 
+<!--- code for the last kit section
     <section class="last-kit">
         <div class="last-kit-content">
             <h2>The last wireframe kit you'll ever need</h2>
@@ -110,19 +111,22 @@
 
         <img src="" alt="">
     </section>
+--->
+
+    <section class="last-kit">
+        <img src="hiw-assets/benefits-4@3x.webp" alt="last-kit-section">
+    </section>
 
     <section class="signup">
         <div class="signup-content">
-            <h3>Get the most out of Form</h3> <!--needs to be modified specifically --->
+            <h3>Get the most out of Form</h3>
 
-            <p></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
         </div>
+            
+        <a href="" class="signup-now">SIGNUP NOW</a>
 
-        <div class="signup-btn">
-            <a href="">SIGNUP NOW</a>
-
-            <a href="">READ MORE</a>
-        </div>
+        <a href="" class="read-more">READ MORE</a>
 
     </section>
 

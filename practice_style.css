@@ -187,7 +187,7 @@ nav{
 .shop{
     text-decoration: none;
     margin: 0px 27px 0px 0px;
-    padding: 14px 50px;
+    padding: 14px 50px 13px 51px;
     background-color: #424b5a;
     color:white;
     font-size: 12px;
@@ -552,12 +552,14 @@ nav{
     display: flex;
 }
 
-.speed img{
+.speed-ipad{
     width: 694px;
     height: 675px;
+    padding-top: 115px;
 }
 
 .speed-content{
+    padding-top: 188px;
     padding-left: 281px;
 }
 
@@ -586,7 +588,93 @@ nav{
 }
 
 .speed-col p{
+    width: 233px;
     padding-top: 7.4px;
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #a1aeb7;
+}
+
+/*last-kit section*/
+
+.last-kit{
+    width: 1920px;
+    height: 778.7px;
+    margin: 21.7px 0 118.7px;
+}
+
+.last-kit img{
+    width: 1920px;
+    height: 778.7px;
+}
+
+/*signup section*/
+
+.signup{
+    width: 100%;
+    height: 203px;
+    background-color: #f2f5f7;
+    display: flex;
+}
+
+.signup-content{
+    padding-left: 284px;
+    padding-top: 66px;
+}
+
+.signup-content h3{
+    font-family: Ubuntu;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    color: #505d68;
+}
+
+.signup-content p{
+    color: #505d68;
+}
+
+.signup-now{
+    text-decoration: none;
+    font-family: Ubuntu;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin: 82px 24px 81px 530px;
+    padding: 14px 45px 13px 46px;
+    border-radius: 4px;
+    background-color: #424b5a;
+}
+
+.read-more{
+    text-decoration: none;
+    font-family: Ubuntu;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #424b5a;
+    border-style: solid;
+    border-width: 1.5px;
+    margin: 82px 0 81px 0;
+    padding: 14px 48px 13px 48px;
+    border-radius: 4px;
 }
 
 /*hiw-footer section*/
