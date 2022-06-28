@@ -18,31 +18,71 @@
         <h1>Shop</h1>
 
         <div class="prod">
+            <h2>Our products</h2>
+
             <div class="prod-row">
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
 
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
 
                 <div class="prod-col">
+                    <h3 class="full-coll">See the full collection</h3>
+
+                    <a href="">SEE ALL PRODUCTS</a>
                 </div>
 
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
             </div>
 
             <div class="prod-row">
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
 
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
 
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
                 
                 <div class="prod-col">
+                    <img src="shop-assets/background@3x.webp" alt="background">
+
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+
+                    <h3>$</h3>
                 </div>
             </div>
         </div>
