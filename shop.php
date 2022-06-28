@@ -22,67 +22,67 @@
 
             <div class="prod-row">
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$3.13</h3>
+                    </a>
                 </div>
 
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
+                    <h3>$11.31</h3>
+                    </a>
+                </div>
 
-                    <h3>$</h3>
+                <div class="prod-alt">
+                    <h3 class="full-coll">See the full<br>collection</h3>
+
+                    <a href="" class="all-prod">SEE ALL PRODUCTS</a>
                 </div>
 
                 <div class="prod-col">
-                    <h3 class="full-coll">See the full collection</h3>
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <a href="">SEE ALL PRODUCTS</a>
-                </div>
-
-                <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
-
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$27.70</h3>
+                    </a>
                 </div>
             </div>
 
             <div class="prod-row">
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$87.09</h3>
+                    </a>
                 </div>
 
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$30.26</h3>
+                    </a>
                 </div>
 
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$69.92</h3>
+                    </a>
                 </div>
                 
                 <div class="prod-col">
-                    <img src="shop-assets/background@3x.webp" alt="background">
+                    <a href="">
+                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail" class="prod-img">
 
-                    <img src="shop-assets/atoms-media-image-thumbnail-copy@3x.webp" alt="media thumbnail">
-
-                    <h3>$</h3>
+                    <h3>$80.28</h3>
+                    </a>
                 </div>
             </div>
         </div>

@@ -27,6 +27,16 @@ body{
 }
 
 /*generic css*/
+h1{
+    font-size: 66px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #505d68;
+}
+
 h2{
     font-size: 50px;
     font-weight: bold;
@@ -687,6 +697,99 @@ nav{
 /*@how-it-works page end*/
 
 /*@shop page*/
+/*product section*/
+.product{
+    width: 1920px;
+    height: 833px;
+    margin: 0 0 542px;
+    background-color: #f2f5f7;
+}
+
+.product h1{
+    margin: 108px 1205px 0 160px;
+}
+
+.prod{
+    width: 1600px;
+    height: 855px;
+    margin: 108px 160px 130px;
+    background-color: #fff;
+}
+
+.prod h2{
+    text-align: center;
+    padding: 72px 643px 57px 642px;
+}
+
+.prod-row{
+    display: flex;
+    padding-left: 230px;
+    padding-bottom: 35px;
+}
+
+.prod-col{
+    width: 263px;
+    height: 263px;
+    margin-right: 29px;
+    background-image: url(shop-assets/background@3x.webp);
+    background-size: contain;
+}
+
+.prod-col a{
+    text-decoration: none;
+}
+
+.prod-img{
+    width: 68px;
+    height: 56px;
+    padding: 78px 98px 74px 97px;
+}
+
+.prod-col h3{
+    width: 232px;
+    height: 31px;
+    text-align: center;
+    padding: 0 16px 24px 15px;
+}
+
+/*Only different square/see full collection css*/
+.prod-alt{
+    width: 263px;
+    height: 263px;
+    margin-right: 29px;
+    background-color:#424b5a;
+    border-radius: 2px;
+}
+
+.full-coll{
+    margin-top: 83px;
+    margin-bottom: 34px;
+    font-family: Ubuntu;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
+
+.all-prod{
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #363636;
+    text-decoration: none;
+    padding: 14px 19px 13px;
+    margin: 0 59px 0 58px;
+    border-radius: 4px;
+    background-color: #fff;
+}
 /*@shop page end*/
 
 /*@pricing page*/
