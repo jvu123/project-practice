@@ -18,7 +18,7 @@ body{
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: lightgray;
+    background: #424b5a;
     border-radius: 10px;
 }
 
@@ -205,6 +205,8 @@ nav{
 }
 
 .demo{
+    width: 102px;
+    height: 20px;
     margin: 10px 0 0 0;
 }
 
@@ -218,6 +220,8 @@ nav{
 }
 
 .about img{
+    width: 70px;
+    height: 70px;
     padding-top: 101px;
     padding-bottom: 11px;
 }

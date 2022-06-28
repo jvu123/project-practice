@@ -29,7 +29,7 @@
 
                 <div class="butn">
                     <a href="" class="shop">SHOP NOW!</a>
-                    <a href=""><img src="home-assets/atoms-link-icon-right.webp" alt="DEMO" class="demo"></a>
+                    <a href=""><img src="home-assets/atoms-link-icon-right@3x.webp" alt="DEMO" class="demo"></a>
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@
     </section>
 
     <section class="about">
-        <img src="home-assets/atoms-logo-brand-sign.webp" alt="logo">
+        <img src="home-assets/atoms-logo-brand-sign@3x.webp" alt="logo">
 
         <h2>This is our business</h2>
 
