@@ -132,7 +132,19 @@
 
     <section class="hiw-footer">
         
-        <?php include('templates/footer.php'); ?>
+        <img src="home-assets/atoms-logo-brand-sign@3x.webp" alt="logo" class="hiw-footer-logo">
+
+        <img src="home-assets/atoms-logo-brand-color@3x.webp" alt="form" class="hiw-footer-form">
+
+        <div class="hiw-footer-row">
+            <a href="home.php">HOME</a>
+            <a href="">FEATURES</a>
+            <a href="pricing.php">PRICING</a>
+            <a href="">BLOG</a>
+            <a href="">ABOUT</a>
+        </div>
+
+        <p class="hiw-copyright">©2018 - Form  |   All right reserved</p>
 
     </section>
 
