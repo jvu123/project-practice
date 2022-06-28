@@ -12,8 +12,40 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <section class="intro">
+    <section class="product">
         <?php include('templates/nav.php'); ?>
+
+        <h1>Shop</h1>
+
+        <div class="prod">
+            <div class="prod-row">
+                <div class="prod-col">
+                </div>
+
+                <div class="prod-col">
+                </div>
+
+                <div class="prod-col">
+                </div>
+
+                <div class="prod-col">
+                </div>
+            </div>
+
+            <div class="prod-row">
+                <div class="prod-col">
+                </div>
+
+                <div class="prod-col">
+                </div>
+
+                <div class="prod-col">
+                </div>
+                
+                <div class="prod-col">
+                </div>
+            </div>
+        </div>
 
     </section>
 
