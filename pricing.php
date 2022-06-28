@@ -20,11 +20,11 @@
 
         <h2>Our plans</h2>
 
-        <p>Your information is secure and encrypted, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim.</p>
+        <p class="plans-p">Your information is secure and encrypted, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim.</p>
 
         <div class="plans-row">
             <div class="plans-col">
-                <h3>Basic</h3>
+                <h3 class="plan-title">Basic</h3>
 
                 <h4>Lorem ipsum dolor sit amet</h4>
 
@@ -33,24 +33,24 @@
                 <hr class="solid">
 
                 <ul>
-                    <li>Unlimited</li>
+                    <li><img src="" alt="check">Unlimited</li>
 
-                    <li>Books per month</li>
+                    <li><img src="" alt="check">Books per month</li>
 
-                    <li>10 users</li>
+                    <li><img src="" alt="check">10 users</li>
 
-                    <li>Write something</li>
+                    <li><img src="" alt="check">Write something</li>
                 </ul>
 
                 <hr class="solid">
 
-                <h3>$10<span class="month">/per month</span></h3>
+                <h3 class="money">$10<span class="month"> /per month</span></h3>
 
-                <a href="">SIGN UP</a>
+                <a href="" class="plans-signup">SIGN UP</a>
             </div>
 
             <div class="plans-col">
-                <h3>Advanced</h3>
+                <h3 class="plan-title">Advanced</h3>
 
                 <h4>Lorem ipsum dolor sit amet</h4>
 
@@ -59,24 +59,24 @@
                 <hr class="solid">
 
                 <ul>
-                    <li>Unlimited</li>
+                    <li><img src="" alt="check">Unlimited</li>
 
-                    <li>Books per month</li>
+                    <li><img src="" alt="check">Books per month</li>
 
-                    <li>10 users</li>
+                    <li><img src="" alt="check">10 users</li>
 
-                    <li>Write something</li>
+                    <li><img src="" alt="check">Write something</li>
                 </ul>
 
                 <hr class="solid">
 
-                <h3>$20<span class="month">/per month</span></h3>
+                <h3 class="money">$20<span class="month"> /per month</span></h3>
 
-                <a href="">SIGN UP</a>
+                <a href="" class="plans-signup-alt">SIGN UP</a>
             </div>
 
             <div class="plans-col">
-                <h3>Plus</h3>
+                <h3 class="plan-title">Plus</h3>
 
                 <h4>Lorem ipsum dolor sit amet</h4>
 
@@ -85,28 +85,40 @@
                 <hr class="solid">
 
                 <ul>
-                    <li>Unlimited</li>
+                    <li><img src="" alt="check">Unlimited</li>
 
-                    <li>Books per month</li>
+                    <li><img src="" alt="check">Books per month</li>
 
-                    <li>10 users</li>
+                    <li><img src="" alt="check">10 users</li>
 
-                    <li>Write something</li>
+                    <li><img src="" alt="check">Write something</li>
                 </ul>
 
                 <hr class="solid">
 
-                <h3>$30<span class="month">/per month</span></h3>
+                <h3 class="money">$30<span class="month"> /per month</span></h3>
 
-                <a href="">SIGN UP</a>
+                <a href="" class="plans-signup">SIGN UP</a>
             </div>
         </div>
-    </section>
 
-    <section class="footer">
-        
-        <?php include('templates/footer.php'); ?>
+        <div class="pricing-footer">
 
+            <img src="home-assets/atoms-logo-brand-sign@3x.webp" alt="logo" class="pricing-footer-logo">
+
+            <img src="home-assets/atoms-logo-brand-color@3x.webp" alt="form" class="pricing-footer-form">
+
+            <div class="pricing-footer-row">
+                <a href="home.php">HOME</a>
+                <a href="">FEATURES</a>
+                <a href="pricing.php">PRICING</a>
+                <a href="">BLOG</a>
+                <a href="">ABOUT</a>
+            </div>
+
+            <p class="pricing-copyright">©2018 - Form  |   All right reserved</p>
+
+        </div>
     </section>
 
 
