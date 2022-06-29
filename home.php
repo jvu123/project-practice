@@ -74,6 +74,8 @@
 
     </section>
 
+
+    <!---
     <section class="feat">
         <h2>A lot of useful features</h2>
 
@@ -160,6 +162,33 @@
 
         </div>
 
+    </section>
+    --->
+
+    <section class="feat">
+        <h2>How it works</h2>
+
+        <div class="feat-row">
+            <div class="feat-col">
+                <img src="" alt="img step">
+                <h3></h3>
+                <p></p>
+            </div>
+
+            <div class="feat-col">
+                <img src="" alt="img step">
+                <h3></h3>
+                <p></p>
+            </div>
+
+            <div class="feat-col">
+                <img src="" alt="img step">
+                <h3></h3>
+                <p></p>
+            </div>
+        </div>
+
+        <a href="">Learn more <img src="" alt=""></a>
     </section>
 
     <section class="video">
