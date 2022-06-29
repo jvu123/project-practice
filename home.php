@@ -17,20 +17,23 @@
         <?php include('templates/nav.php'); ?>
 
         <div class="intro-content">
-            <div class="intro-img">
-                <!--- two images on the left side of intro-->
-                <img src="home-assets/ipad@3x.webp" alt="ipad" class="ipad">
-
-                <img src="home-assets/atoms-devices-apple-watch@3x.webp" alt="watch" class="watch">
-            </div>
 
             <div class="intro-butn">
-                <h1>This is a breakthrough wireframe ui kit</h1>
+                <h1 class="desk-intro-h1">This is a breakthrough wireframe ui kit</h1>
+
+                <h2 class="tablet-intro-h2">Welcome to your<br>new wireframe kit</h2>
 
                 <div class="butn">
                     <a href="" class="shop">SHOP NOW!</a>
                     <a href=""><img src="home-assets/atoms-link-icon-right@3x.webp" alt="DEMO" class="demo"></a>
                 </div>
+            </div>
+
+            <div class="intro-img">
+                <!--- two images on the left side of intro-->
+                <img src="home-assets/ipad@3x.webp" alt="ipad" class="ipad">
+
+                <img src="home-assets/atoms-devices-apple-watch@3x.webp" alt="watch" class="watch">
             </div>
         </div>
 

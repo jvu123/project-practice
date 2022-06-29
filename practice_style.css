@@ -94,15 +94,15 @@ nav{
     display: flex;
 }
 
-.menu a{
+.desk-logo{
     width: 100px;
     height: 61px;
     margin: 20px 8px;
 }
 
-.menu img{
-    width: 100px;
-    height: 61px;
+.tablet-logo{
+    width: 0;
+    height: 0;
 }
 
 .menu ul li{
@@ -164,8 +164,8 @@ nav{
 .ipad{
     width: 859px;
     height: 849px;
-    position: relative;
-    top: 0;
+    position: absolute;
+    top: 116px;
     left: 0;
 }
 
@@ -177,16 +177,26 @@ nav{
     left: 429px;
 }
 
-.intro-butn h1{
+.intro-butn{
+    position: relative;
+    top: 284px;
+    left: 1129px;
+}
+
+.desk-intro-h1{
     font-size: 66px;
     width: 555px;
     height: 222px;
-    margin: 284px 236px 50px 0;
+    margin: 0px 236px 50px 0;
     color: #505d68;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
+}
+
+.tablet-intro-h2{
+    font-size: 0;
 }
 
 .butn{
@@ -1021,17 +1031,93 @@ nav{
 
 /*-----Media Query 768px-----*/
 @media(max-width: 768px){
-    /*home page*/
+    /*@home page*/
+    /*nav section*/
     nav{
-        width: 85%;
-        height: 100px;
+        width: 100%;
+        height: 61px;
         background-color: #f2f5f7;
         display: flex;
         align-items: center;
-        justify-content: space-between;
-        padding: 0px 150px 0px 150px;
+        padding: 0;
     }
-    /*home page end*/
+
+    .menu a img{
+        display: none;
+    }
+
+    .menu ul li{
+        display: none;
+    }
+
+    /*intro section*/
+    .intro{
+        width: 100%;
+        height: 1057px;
+        background-color: #f2f5f7;
+    }
+
+    .intro-butn{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    .desk-intro-h1{
+        display: none;
+    }
+
+    .tablet-intro-h2{
+        width: 690px;
+        height: 96px;
+        font-size: 38px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.26;
+        letter-spacing: normal;
+        text-align: center;
+        color: #505d68;
+        margin: 108px 39px 64px 39px;
+    }
+
+    .butn{
+        display: flex;
+    }
+    
+    .shop{
+        text-decoration: none;
+        margin: 0px 91px 0px 204px;
+        padding: 14px 50px 13px 51px;
+        background-color: #424b5a;
+        color:white;
+        font-size: 12px;
+        border-radius: 4px;
+    }
+    
+    .demo{
+        width: 102px;
+        height: 20px;
+        margin: 10px 0 0 0;
+    }
+
+    .ipad{
+        width: 616px;
+        height: 609px;
+        position: absolute;
+        top: 441px;
+        left: 0;
+    }
+    
+    .watch{
+        width: 213px;
+        height: 386px;
+        position: absolute;
+        top: 676px;
+        left: 349px;
+    }
+
+    /*@home page end*/
 }
 
 /*-----Media Query 320px-----*/

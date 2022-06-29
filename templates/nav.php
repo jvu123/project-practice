@@ -1,7 +1,8 @@
         <nav>
             <div class="menu">
-                <!--- Temporary logo -->
-                <a href="home.php"><img src="home-assets/atoms-logo-brand-color@3x.webp" alt="home"></a>
+                <a href="home.php"><img src="home-assets/atoms-logo-brand-color@3x.webp" alt="home" class="desk-logo"></a>
+
+                <a href="home.php"><img src="home-assets/atoms-logo-brand-sign@3x.webp" alt="home" class="tablet-logo"></a>
                 <ul>
                     <li><a href="home.php">HOME</a></li>
                     <li><a href="how-it-works.php">HOW IT WORKS</a></li>
