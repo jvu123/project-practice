@@ -265,7 +265,7 @@
         <img src="home-assets/atoms-logo-brand-color@3x.webp" alt="form" class="footer-form">
 
         <div class="footer-row">
-            <a href="home.php">HOME</a>
+            <a href="index.php">HOME</a>
             <a href="">FEATURES</a>
             <a href="pricing.php">PRICING</a>
             <a href="">BLOG</a>
